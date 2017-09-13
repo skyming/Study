@@ -11,3 +11,4 @@
 
 * [switch与ifelse的效率问题](http://blog.csdn.net/kehui123/article/details/5298337) 
 * [为什么switch...case语句比if...else执行效率高](http://www.cnblogs.com/idorax/p/6275259.html)
+* [多线程](http://www.cnblogs.com/kenshincui/p/3983982.html) 
