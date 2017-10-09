@@ -19,3 +19,4 @@
 * [iOS系统关于URL Schemes的漏洞探究](https://yq.aliyun.com/articles/39208) 
 * [实现iOS app之间的内容分享](https://segmentfault.com/a/1190000004237771)
 * [iOS App之间常用的五种通信方式及适用场景总结](http://blog.csdn.net/opentogether/article/details/53084855)
+* [iOS扩展开发攻略(一) - Share Extension](https://my.oschina.net/vimfung/blog/707448)
