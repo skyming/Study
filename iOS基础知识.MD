@@ -18,6 +18,7 @@
 * [iOS系统关于URL Schemes的漏洞探究](https://yq.aliyun.com/articles/39208) 
 * [实现iOS app之间的内容分享](https://segmentfault.com/a/1190000004237771)
 * [iOS App之间常用的五种通信方式及适用场景总结](http://blog.csdn.net/opentogether/article/details/53084855)
+* [iOS通过UTI（统一类型标示符）实现应用间文件的传递](http://www.jianshu.com/p/cee3cc083807)
 
 ##### 系统分享
 * [iOS扩展开发攻略(一) - Share Extension](https://my.oschina.net/vimfung/blog/707448)
