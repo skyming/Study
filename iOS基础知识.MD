@@ -26,3 +26,4 @@
 
 ##### 通知
 * [浅谈 iOS Notification](http://www.jianshu.com/p/8832f019c17f) 
+* [Notification Programming Topics](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Notifications/Introduction/introNotifications.html#)
