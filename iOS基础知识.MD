@@ -23,3 +23,6 @@
 ##### 系统分享
 * [iOS扩展开发攻略(一) - Share Extension](https://my.oschina.net/vimfung/blog/707448)
 * [App Extension Programming Guide](https://developer.apple.com/library/content/documentation/General/Conceptual/ExtensibilityPG/index.html#//apple_ref/doc/uid/TP40014214-CH20-SW1) 
+
+##### 通知
+* [浅谈 iOS Notification](http://www.jianshu.com/p/8832f019c17f) 
