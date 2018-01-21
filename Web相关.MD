@@ -4,3 +4,8 @@
 * [WebDriverAgent](https://github.com/facebook/WebDriverAgent)
 * [ATX ATX 文档 - iOS 真机如何安装 WebDriverAgent](https://testerhome.com/topics/7220)
 * [Install libimobiledevice on Mac OSX](http://macappstore.org/libimobiledevice/)
+
+
+
+#### JS基础
+* [对JAVASCRIPT匿名函数的理解（透彻版)](https://www.cnblogs.com/chenxianbin89/archive/2010/01/28/1658392.html) 
