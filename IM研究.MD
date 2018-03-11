@@ -1,3 +1,6 @@
+#### 概念
+* [http和socket之间的关系和区别](https://segmentfault.com/q/1010000006809949?_ea=1139974) 
+
 #### 协议
 * [理论联系实际：一套典型的IM通信协议设计详解](http://www.52im.net/thread-283-1-1.html)
 
