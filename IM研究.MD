@@ -12,9 +12,13 @@
 * [iOS 设备是如何实现推送功能的呢？](https://www.zhihu.com/question/20049505)
 
 #### 信令风暴
+* [微信的大规模使用真的会过多占用信令，影响通讯稳定吗？](https://www.zhihu.com/question/20849677) 
 * [微信对网络影响的技术试验及分析（论文全文）](http://www.52im.net/forum.php?mod=viewthread&tid=195&ctid=10)
 * [智能手机信令风暴探析](https://wenku.baidu.com/view/0dfbec2f915f804d2b16c144.html)
 * [华为“智能风暴”解决方案](https://wenku.baidu.com/view/2408016ea98271fe910ef90c.html)  
+
+#### 移动网络
+* [华为内部3G网络资料： WCDMA系统原理培训手册](http://www.52im.net/thread-193-1-1.html)
 
 #### 开源
 * [CocoaMQTT](https://github.com/emqtt/CocoaMQTT)
