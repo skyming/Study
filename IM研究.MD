@@ -8,7 +8,8 @@
 * [说说XMPP的问题和解决方案 #2](https://github.com/rainzhaojy/blogs/issues/2) 
 * [移动场景下通信协议FlatBuffers、ProtocolBuffers、MessagePack选优](https://www.jianshu.com/p/987c4d16c48b)
 
-
+#### 推送
+* [iOS 设备是如何实现推送功能的呢？](https://www.zhihu.com/question/20049505)
 
 #### 开源
 * [CocoaMQTT](https://github.com/emqtt/CocoaMQTT)
