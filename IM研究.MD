@@ -11,5 +11,9 @@
 #### 推送
 * [iOS 设备是如何实现推送功能的呢？](https://www.zhihu.com/question/20049505)
 
+#### 信令风暴
+* [智能手机信令风暴探析](https://wenku.baidu.com/view/0dfbec2f915f804d2b16c144.html)
+* [华为“智能风暴”解决方案](https://wenku.baidu.com/view/2408016ea98271fe910ef90c.html)  
+
 #### 开源
 * [CocoaMQTT](https://github.com/emqtt/CocoaMQTT)
