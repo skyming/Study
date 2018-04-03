@@ -5,3 +5,7 @@
 
 #### CrashLog
 * [【腾讯Bugly干货分享】聊聊苹果的Bug - iOS 10 nano_free Crash](https://blog.csdn.net/tencent_bugly/article/details/53583751) 
+
+
+#### Crash 防御
+* [Baymax：网易iOS App运行时Crash自动防护实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488311&amp;idx=1&amp;sn=0db090c8d4a5efafa47f00af4b3f174f&source=41#wechat_redirect) 
