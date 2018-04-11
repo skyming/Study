@@ -1,5 +1,3 @@
-#### 基础知识
-* [进程和线程的定义、区别与联系](http://blog.csdn.net/yanxiaolx/article/details/51763372)
 
 #### ObjC 基础
 ##### 为什么说OC是动态语言?
