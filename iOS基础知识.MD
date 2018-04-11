@@ -27,3 +27,7 @@
 ##### 通知
 * [浅谈 iOS Notification](http://www.jianshu.com/p/8832f019c17f) 
 * [Notification Programming Topics](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Notifications/Introduction/introNotifications.html#)
+
+
+#### 命令
+* [Mac系统下lipo, ar, nm等工具的使用简介](https://www.cnblogs.com/dabaopku/p/5698186.html) 
