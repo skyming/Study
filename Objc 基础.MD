@@ -41,9 +41,10 @@
 > 注意，动态创建类、方法、属性，动态代理、AOP
 
 
-
+#### 加载/启动优化
 * [你真的了解load方法么？](http://www.cocoachina.com/ios/20160516/16273.html)
-
+* [load方法全程跟踪](http://www.desgard.com/Load/) 
+* [dyld与ObjC](https://blog.cnbluebox.com/blog/2017/06/20/dyldyu-objc/)
 
 
 #### 内存相关
