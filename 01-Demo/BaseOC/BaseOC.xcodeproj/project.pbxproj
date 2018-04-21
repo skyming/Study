@@ -16,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		210AA09FE6456AD58FBC3C43 /* Pods-BaseOC.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BaseOC.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BaseOC/Pods-BaseOC.debug.xcconfig"; sourceTree = "<group>"; };
 		2E64FCA6206DF49400453F17 /* BaseOC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BaseOC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E64FCA9206DF49400453F17 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2E64FCAA206DF49400453F17 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -27,7 +26,6 @@
 		2E64FCB5206DF49400453F17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2E64FCB7206DF49400453F17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2E64FCB8206DF49400453F17 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		8CF9176EB92B4B4612365E11 /* Pods-BaseOC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BaseOC.release.xcconfig"; path = "Pods/Target Support Files/Pods-BaseOC/Pods-BaseOC.release.xcconfig"; sourceTree = "<group>"; };
 		977EF6E2FC9DA5804C67E851 /* libPods-BaseOC.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BaseOC.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -42,21 +40,11 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		132FBCBE65072C0341297870 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				210AA09FE6456AD58FBC3C43 /* Pods-BaseOC.debug.xcconfig */,
-				8CF9176EB92B4B4612365E11 /* Pods-BaseOC.release.xcconfig */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
 		2E64FC9D206DF49400453F17 = {
 			isa = PBXGroup;
 			children = (
 				2E64FCA8206DF49400453F17 /* BaseOC */,
 				2E64FCA7206DF49400453F17 /* Products */,
-				132FBCBE65072C0341297870 /* Pods */,
 				E11A0035A3CDF61E7BB68235 /* Frameworks */,
 			);
 			sourceTree = "<group>";
@@ -298,7 +286,6 @@
 		};
 		2E64FCBD206DF49400453F17 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 210AA09FE6456AD58FBC3C43 /* Pods-BaseOC.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Manual;
@@ -314,7 +301,6 @@
 		};
 		2E64FCBE206DF49400453F17 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8CF9176EB92B4B4612365E11 /* Pods-BaseOC.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Manual;

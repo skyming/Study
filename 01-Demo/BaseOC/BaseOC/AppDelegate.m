@@ -52,17 +52,61 @@
     // 类对象
     // [self nomalCalssTest];
     
-    //测试 3
-    NSString *str = [NSString stringWithFormat:@"xxxxxxxxxx"];
-    NSMutableString *strM = [[[NSMutableString alloc]initWithString:str] mutableCopy];
-    if ([strM isMemberOfClass:[NSMutableString class]]) {
-        NSLog(@"YES");
-    }else{
-        NSLog(@"NO");
-    }
-    
+    // 字符串测试
+    [self stringTest];
+
+    // 数组测试
     
     return YES;
+}
+
+- (void)arrayTest {
+    id obj1 = [NSArray alloc];
+    id obj2 = [NSMutableArray alloc];
+    id obj3 = [obj1 init];
+    id obj4 = [obj2 init];
+    NSLog(@"%@",NSStringFromClass([obj1 class]));
+    NSLog(@"%@",NSStringFromClass([obj2 class]));
+    NSLog(@"%@",NSStringFromClass([obj3 class]));
+    NSLog(@"%@",NSStringFromClass([obj4 class]));
+    /*
+     结果：
+     2016-01-13 20:58:29.455 1fundation框架[2570:230724]  __NSPlaceholderArray
+     2016-01-13 20:58:29.456 1fundation框架[2570:230724] __NSPlaceholderArray
+     2016-01-13 20:58:29.457 1fundation框架[2570:230724] __NSArray0
+     2016-01-13 20:58:29.457 1fundation框架[2570:230724] __NSArrayM
+     */
+}
+
+- (void)stringTest {
+    NSString *string0 = @"hello";
+    NSString *string1 = @"helloworld";
+    NSString *string2 = [[NSString alloc] initWithFormat:@":%@", @"helloworld"];
+    NSString *string3 = [NSHomeDirectory() stringByAppendingPathComponent:string1];
+    NSTextStorage *storage = [[NSTextStorage alloc] initWithString:string1];
+    NSString *string4 = [storage string];
+    
+    NSLog(@"%@", [[string0 class] description]);
+    NSLog(@"%@", [[string1 class] description]);
+    NSLog(@"%@", [[string2 class] description]);
+    NSLog(@"%@", [[string3 class] description]);
+    NSLog(@"%@", [[string4 class] description]);
+    
+    if ([string0 isMemberOfClass:[NSString class]]) {
+        NSLog(@"isMemberOfClass yes");
+    }
+    
+    if ([string0 isKindOfClass:[NSString class]]) {
+        NSLog(@"isKindOfClass yes");
+    }
+    /*
+     2018-04-10 01:12:04.616592+0800 BaseOC[25581:4839165] __NSCFConstantString
+     2018-04-10 01:12:04.616744+0800 BaseOC[25581:4839165] __NSCFConstantString
+     2018-04-10 01:12:04.616840+0800 BaseOC[25581:4839165] __NSCFString
+     2018-04-10 01:12:04.616945+0800 BaseOC[25581:4839165] NSPathStore2
+     2018-04-10 01:12:04.617053+0800 BaseOC[25581:4839165] NSBigMutableString
+     2018-04-10 01:12:04.617157+0800 BaseOC[25581:4839165] isKindOfClass yes
+     */
 }
 
 // 普通对象测试
@@ -126,7 +170,7 @@
     Class x0 = object_getClass(object_getClass([Teacher class]));
     Class x1 = object_getClass(object_getClass([Person class]));
     NSLog(@"Teacher metaClass 父类 == Person metaClass 父类  %d",x0 == x1);
-
+    
     //NO
     if ([[Teacher class] isMemberOfClass:[Teacher class]]) {
         NSLog(@"Teacher类 Teacher类的成员");
