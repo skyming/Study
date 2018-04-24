@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E2BE0F9208EC04A0049AD4E /* CustomObj.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E2BE0F8208EC04A0049AD4E /* CustomObj.m */; };
 		2E64FCAB206DF49400453F17 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E64FCAA206DF49400453F17 /* AppDelegate.m */; };
 		2E64FCAE206DF49400453F17 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E64FCAD206DF49400453F17 /* ViewController.m */; };
 		2E64FCB1206DF49400453F17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E64FCAF206DF49400453F17 /* Main.storyboard */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E2BE0F7208EC04A0049AD4E /* CustomObj.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomObj.h; sourceTree = "<group>"; };
+		2E2BE0F8208EC04A0049AD4E /* CustomObj.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomObj.m; sourceTree = "<group>"; };
 		2E64FCA6206DF49400453F17 /* BaseOC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BaseOC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E64FCA9206DF49400453F17 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2E64FCAA206DF49400453F17 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -64,6 +67,8 @@
 				2E64FCAA206DF49400453F17 /* AppDelegate.m */,
 				2E64FCAC206DF49400453F17 /* ViewController.h */,
 				2E64FCAD206DF49400453F17 /* ViewController.m */,
+				2E2BE0F7208EC04A0049AD4E /* CustomObj.h */,
+				2E2BE0F8208EC04A0049AD4E /* CustomObj.m */,
 				2E64FCAF206DF49400453F17 /* Main.storyboard */,
 				2E64FCB2206DF49400453F17 /* Assets.xcassets */,
 				2E64FCB4206DF49400453F17 /* LaunchScreen.storyboard */,
@@ -152,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E2BE0F9208EC04A0049AD4E /* CustomObj.m in Sources */,
 				2E64FCAE206DF49400453F17 /* ViewController.m in Sources */,
 				2E64FCB9206DF49400453F17 /* main.m in Sources */,
 				2E64FCAB206DF49400453F17 /* AppDelegate.m in Sources */,
