@@ -50,8 +50,51 @@
 * [dyld 与 load](https://blog.cnbluebox.com/blog/2017/06/20/dyldyu-objc)
 
 #### 内存相关
-* [iOS内存管理和malloc源码解读](https://www.cnblogs.com/itsApe/p/5170108.html) 
+书籍
+* [Objc-C 高级编程 — 内存篇](https://www.jianshu.com/p/70aec1c740e7)
+* 现代操作系统 - 内存篇
+
+* [iOS内存管理详解-掘金](https://juejin.im/post/5abe543bf265da23784064dd)
+* [iOS开发中的内存分配（堆栈）](https://www.jianshu.com/p/746c747e7e00)
+* [Custom Process Stack Size](https://developer.apple.com/library/content/qa/qa1419/_index.html)
+* 栈内存如何被编译器维护的](https://blog.csdn.net/radianceblau/article/details/73800305)
+* [“理解”iOS内存管理](https://juejin.im/post/584fe4762f301e00573cafc6)
+
+* [探索iOS内存分配](https://juejin.im/post/5a5e13c45188257327399e19)
+* [iOS 内存深入探索 VM Tracker](https://juejin.im/post/5a66ef39f265da3e498032d4)
+* [iOS 内存探秘](http://foggry.com/blog/2017/02/13/iosnei-cun-tan-mi)
+
+* [什么是内存（一）：存储器层次结构](http://www.cnblogs.com/yaoxiaowen/p/7805661.html)
+* [什么是内存（二）：虚拟内存](http://www.cnblogs.com/yaoxiaowen/p/7805964.html)
+
+* [Alloc、Init 你弄懂 50% 了吗？](http://ios.jobbole.com/86324/)
+
+
+* [一种避免 iOS 内存碎片的方法](https://cloud.tencent.com/developer/article/1006174)
+* [碎片化](https://juejin.im/post/59f05b69f265da43333d9bc8)
+
+* [循环引用](https://www.zhihu.com/question/36358590)
+
+* [iOS 内存优化总结](https://blog.csdn.net/YCM1101743158/article/details/77508192)
+
+* [谈谈内存管理与优化（一）](https://www.jianshu.com/p/deab6550553a)
+* [谈谈内存管理与优化（二）](https://www.jianshu.com/p/f95b9bfda4a0)
+
+* [内存管理及优化-QQ浏览器(一)](https://www.imooc.com/video/11075)
+* [内存管理及优化-QQ浏览器(一)](https://www.imooc.com/video/11076)
+
 * [说说iOS与内存管理（上）](http://www.cocoachina.com/ios/20150625/12234.html)
 * [说说iOS与内存管理（中）](http://www.cocoachina.com/ios/20150922/13383.html)
 * [说说iOS与内存管理（下）](http://www.molotang.com/articles/2073.html)
 
+* [Target-Action 内存泄露](https://juejin.im/post/5a31406f6fb9a0450c496906)
+
+* [iOS内存abort（jetsam）原理探究](http://satanwoo.github.io/2017/10/18/abort/)
+
+* [iOS微信内存监控](https://juejin.im/post/5aa79eeaf265da2392360487)
+* [iOS 爆内存问题解决方案-OOMDetector组件](https://juejin.im/post/5a58f1a76fb9a01cab283392)
+* [Facebook 的 iOS 内存泄漏碱动自动化实践](https://yq.aliyun.com/articles/68473)
+
+* [iOS逆向：开启malloc stack 追踪内存来源](https://juejin.im/post/5ab7e227f265da239706d4c3)
+
+* [iOS内存管理和malloc源码解读](https://www.cnblogs.com/itsApe/p/5170108.html) 
