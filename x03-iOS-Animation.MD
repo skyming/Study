@@ -1,5 +1,5 @@
 #### Framesworks
-![Framework](https://raw.githubusercontent.com/skyming/Study/master/Images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-30%20%E4%B8%8B%E5%8D%883.54.14.png)
+![Framework](https://raw.githubusercontent.com/skyming/Study/master/03-Image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-30%20%E4%B8%8B%E5%8D%883.54.14.png)
 
 #### 官方教程
 * [Animation Overview](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/Animation_Overview/Introduction/Introduction.html#)
