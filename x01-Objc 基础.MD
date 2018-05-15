@@ -49,6 +49,50 @@
 * [为什么要用 -all_load & -ObjC](https://yq.aliyun.com/articles/47656)
 * [dyld 与 load](https://blog.cnbluebox.com/blog/2017/06/20/dyldyu-objc)
 
+### Runtime
+* [Objc-C Runtime Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide)
+* [runtime官方文档翻译](https://www.jianshu.com/p/158c5d118937)
+备注: 同时关注 《Objecttice-C 2.0运行时系统编程指南》
+ 
+* [运行时详解+Demo](https://www.jianshu.com/p/adf0d566c887)
+> objc_class、objc_object、objc_category，isa、super 流程图，对象关联
+SEL、IMP、Method,消息转发，Method Swizzling
+
+* [iOS 运行时详解-掘金](https://juejin.im/post/5ac0a6116fb9a028de44d717)
+* [Objc- Runtime](http://yulingtianxia.com/blog/2014/11/05/objective-c-runtime)
+
+* [iOS Runtime应用](https://juejin.im/post/58f833458d6d81005875f872)
+* [深入理解 iOS Rumtime机制](https://juejin.im/post/58f830c3a22b9d0065827442)
+* [iOS 面试经常问题到的Runtime](https://juejin.im/post/5aec71aef265da0b7a209165)
+
+* [iOS Runtime 之 Category](https://www.jianshu.com/p/8e6518b1be76)
+* [iOS Rumtime 之 Method Swizzling 应用](https://www.jianshu.com/p/f6dad8e1b848)
+
+* [Runtime 在实际开发中的应用](https://www.jianshu.com/p/851b21870d91)
+* [玩转iOS开发：装逼技能Runtime总结篇](https://juejin.im/post/59ee81615188250385370582)
+
+* [运行时 -Crash防御(一)](https://juejin.im/entry/58989d162f301e00691b6968)
+* [运行时 -Crash防御(二)](https://www.jianshu.com/p/f18876bbe2c4)
+
+运行时 - AOP
+1. https://www.jianshu.com/p/addd4eac54ed
+2. https://www.jianshu.com/p/97017f88f584
+3. APM
+
+运行时 - 数模转换
+1. https://blog.csdn.net/sifenkesi1/article/details/52621906
+2. https://www.jianshu.com/p/1dc46f5ff8af
+运行时 - 热更新
+1. https://github.com/bang590/JSPatch/wiki/JSPatch-%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3
+2. https://mp.weixin.qq.com/s/x0hpbESSlVyq4haEzqSkcQ
+3. https://mp.weixin.qq.com/s/qovdmuQzMhtjC6DHWI4K1A
+4. https://blog.csdn.net/guojin08/article/details/54310858
+5. https://www.jianshu.com/p/739c5c5160f1
+6. https://github.com/NativeScript/ios-runtime
+
+运行时 - 动态执行器
+1. http://satanwoo.github.io/2018/04/01/jsengine/
+
 #### 内存相关
 书籍
 * [Objc-C 高级编程 — 内存篇](https://www.jianshu.com/p/70aec1c740e7)
@@ -98,11 +142,6 @@
 * [iOS逆向：开启malloc stack 追踪内存来源](https://juejin.im/post/5ab7e227f265da239706d4c3)
 
 * [iOS内存管理和malloc源码解读](https://www.cnblogs.com/itsApe/p/5170108.html) 
-
-
-
-
-
 
 
 #### Block 
