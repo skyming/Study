@@ -1,3 +1,15 @@
+#### 事件传递及响应链
+* [Touches、Presses、Guestures](https://developer.apple.com/documentation/uikit/touches_presses_and_gestures)
+* [Event Handling Guide for iOS](https://wenku.baidu.com/view/017afeece009581b6bd9eb41.html)
+* [史上最详细的iOS之事件的传递和响应机制](https://www.jianshu.com/p/2e074db792ba)
+* [触摸、手势、响应链](https://www.jianshu.com/p/a9ecbd14364c)
+* [响应者链条与手势识别器](https://www.aliyun.com/jiaocheng/357640.html)
+* [事件传递与响应链](https://blog.csdn.net/ios_hc/article/details/52038438)
+
+
+
+
+
 
 * [苹果Xcode帮助文档阅读指南](http://blog.csdn.net/skymingst/article/details/10417029)
 * [Key-Value Observing Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html)
