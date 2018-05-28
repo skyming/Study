@@ -5,7 +5,7 @@
 * [WWDC-2016-724](https://developer.apple.com/videos/play/wwdc2016/724)
 * [Voice Over IP (VoIP) Best Practices](https://developer.apple.com/library/content/documentation/Performance/Conceptual/EnergyGuide-iOS/OptimizeVoIP.html)
 
-#### 52IM
+#### 52IM Push 相关
 * [iOS的推送服务APNs详解：设计思路、技术原理及缺陷等](http://www.52im.net/thread-345-1-1.html)
 * [52IM 推送专题](http://www.52im.net/forum.php?mod=collection&action=view&ctid=11)
 
@@ -17,6 +17,7 @@
 * [写一个iOS VoIP应用需要知道什么?](http://www.cnblogs.com/jhzhu/p/3416305.html)
 * [iOS VOIP PushKit 开发相关](https://www.jianshu.com/p/9afff11dd6af)
 * [iOS利用voip push实现类似微信(QQ)电话连续响铃效果](https://oopsr.github.io/2016/06/20/voip/)
+* [iOS Voip 后台运行的原理](http://www.chongchonggou.com/g_824694012.html)
 
 #### APPStore
 * [程序使用Voip被苹果拒绝](http://www.cocoachina.com/bbs/read.php?tid-258950.html)
