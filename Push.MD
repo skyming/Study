@@ -18,6 +18,7 @@
 * [iOS VOIP PushKit 开发相关](https://www.jianshu.com/p/9afff11dd6af)
 * [iOS利用voip push实现类似微信(QQ)电话连续响铃效果](https://oopsr.github.io/2016/06/20/voip/)
 * [iOS Voip 后台运行的原理](http://www.chongchonggou.com/g_824694012.html)
+* [iOS Push的门道](http://www.open-open.com/lib/view/open1452487743355.html)
 
 #### APPStore
 * [程序使用Voip被苹果拒绝](http://www.cocoachina.com/bbs/read.php?tid-258950.html)
@@ -25,3 +26,4 @@
 
 #### 科普博客
 * [iOS 上的 VOIP 应用，如何能够更省电？](http://www.ifanr.com/75641)
+* [VoIP基本原理与常见设备（全文）](http://tech.163.com/05/0913/11/1THBCF7A00091589_all.html) 
