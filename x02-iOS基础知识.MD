@@ -63,3 +63,4 @@
 * [appledoc 注释规范](https://github.com/tomaz/appledoc/wiki/appledoc-docs-comments)
 * [GitBook安装与使用教程](https://blog.csdn.net/feosun/article/details/72806825)
 * [gitbook](http://moyadu.oschina.io/diligentpractice/books/chapter-GITBOOK/gitbookbase/gitbook-base.html)
+* [markdown中超链接通过新窗口打开](https://blog.csdn.net/so_geili/article/details/53025317)
