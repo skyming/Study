@@ -4,6 +4,8 @@
 * [Local and Remote Notifications Overview](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG) 
 * [WWDC-2016-724](https://developer.apple.com/videos/play/wwdc2016/724)
 * [Voice Over IP (VoIP) Best Practices](https://developer.apple.com/library/content/documentation/Performance/Conceptual/EnergyGuide-iOS/OptimizeVoIP.html)
+* [WWDC-2018-710](https://developer.apple.com/videos/play/wwdc2018/710/)
+* [WWDC-2018-711](https://developer.apple.com/videos/play/wwdc2018/711/)
 
 #### 52IM Push 相关
 * [iOS的推送服务APNs详解：设计思路、技术原理及缺陷等](http://www.52im.net/thread-345-1-1.html)
@@ -27,3 +29,6 @@
 #### 科普博客
 * [iOS 上的 VOIP 应用，如何能够更省电？](http://www.ifanr.com/75641)
 * [VoIP基本原理与常见设备（全文）](http://tech.163.com/05/0913/11/1THBCF7A00091589_all.html) 
+
+#### 
+* [Knuff](https://github.com/KnuffApp/Knuff) 
