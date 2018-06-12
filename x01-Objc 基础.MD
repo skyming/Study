@@ -156,6 +156,6 @@ SEL、IMP、Method,消息转发，Method Swizzling
 * [深入研究Block用 weakSelf、strongSelf 解决循环引用-霜神](https://www.jianshu.com/p/701da54bd78c)
 * [关于Block捕获self的分析 - Bugly](https://mp.weixin.qq.com/s/yD-AvTDUJnPGSy1K_-LAnw)
 
-#### KVC & KVO 
-KVO 
-1. https://www.jianshu.com/p/b75f40380536
+#### 其它
+* [KVO 底层原理](https://www.jianshu.com/p/b75f40380536)
+* [C语言指针详解](https://blog.csdn.net/ad_ad_ad/article/details/1522145)
