@@ -65,3 +65,4 @@
 * [gitbook](http://moyadu.oschina.io/diligentpractice/books/chapter-GITBOOK/gitbookbase/gitbook-base.html)
 * [markdown中超链接通过新窗口打开](https://blog.csdn.net/so_geili/article/details/53025317)
 * [斗米客户端的架构思想](http://blog.linzihong.com/2017/07/27/framework/)
+* [CSDN-markdown 页间跳转（锚点链接）的实现](https://blog.csdn.net/thither_shore/article/details/52206016) 
