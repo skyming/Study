@@ -145,25 +145,16 @@ SEL、IMP、Method,消息转发，Method Swizzling
 
 
 #### Block 
-* [Objc-C-Block篇](https://www.jianshu.com/p/afc7638fe036)
-* [学习使用 Objc-C中的Block](https://www.jianshu.com/p/d911cd16c100)
-* [Block 使用场景](https://juejin.im/post/57ca8d475bbb500074e8c076)
-* [iOS中Block的用法及示例](https://juejin.im/post/5add619f6fb9a07ac90cced6)
+* [Blocks Programming Topics](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Blocks/Articles/00_Introduction.html)
+* [A Short Practical Guide to Blocks](https://developer.apple.com/library/archive/featuredarticles/Short_Practical_Guide_Blocks/index.html)
+* [Objcetive-C高级编程-Block篇](https://pan.baidu.com/s/1p2abIIo4rGFEiHKow9pATA)
 * [iOS Block 详解](http://www.imlifengfeng.com/blog/?p=457)
-* [Block 原理分析详解](https://huang303513.github.io/2017/04/11/Block原理分析详解.html)
+* [iOS中Block的用法及示例](https://juejin.im/post/5add619f6fb9a07ac90cced6)
 * [Objc-C 中的Block](http://www.devtalking.com/articles/you-should-know-block/)
-* [iOS揭露Block内部实现原理](https://juejin.im/post/5a328ffa518825569539ad97)
-* [iOS-Block 变量捕获原理](https://juejin.im/post/5a33779f51882561a20a870a)
-* [关于Block捕获self的分析](https://mp.weixin.qq.com/s/yD-AvTDUJnPGSy1K_-LAnw)
+* [谈 Objective-C 中 Block的实现 - 唐巧](http://blog.devtang.com/2013/07/28/a-look-inside-blocks/)
 * [Block 循环应用终结者](https://www.jianshu.com/p/5a2cfa4848cf)
-* [Block 循环应用问题的一点发散](http://swiftcafe.io/2017/02/02/weak-block/)
-* [Block是如何实现的，如何避免循环引用](https://www.jianshu.com/p/4dedac2a22c6)
-* [一篇文章看懂iOS代码块Block](https://www.jianshu.com/p/14efa33b3562)
-* [关于Block会不会自动copy的实验和猜想](https://juejin.im/post/58984bc92f301e00696e600d)
-* [dispatch_asyn 中是否要使用 weak ](https://juejin.im/post/58a83e51128fe1006cc068fb)
-* [深入研究Block用 weakSelf、strongSelf 解决循环引用](https://www.jianshu.com/p/701da54bd78c)
-* [从源码看 Block](https://www.jianshu.com/p/d973251fa773)
-
+* [深入研究Block用 weakSelf、strongSelf 解决循环引用-霜神](https://www.jianshu.com/p/701da54bd78c)
+* [关于Block捕获self的分析 - Bugly](https://mp.weixin.qq.com/s/yD-AvTDUJnPGSy1K_-LAnw)
 
 #### KVC & KVO 
 KVO 
