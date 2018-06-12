@@ -3,6 +3,8 @@
 * [How to symbolicate crash log Xcode?](https://stackoverflow.com/questions/25855389/how-to-symbolicate-crash-log-xcode)
 
 
+* [WWDC 2018：理解崩溃以及崩溃日志](https://juejin.im/post/5b1e833ce51d450686186557) 
+
 #### CrashLog
 * [【腾讯Bugly干货分享】聊聊苹果的Bug - iOS 10 nano_free Crash](https://blog.csdn.net/tencent_bugly/article/details/53583751) 
 
