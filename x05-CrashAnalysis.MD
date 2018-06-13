@@ -3,6 +3,8 @@
 * [How to symbolicate crash log Xcode?](https://stackoverflow.com/questions/25855389/how-to-symbolicate-crash-log-xcode)
 
 
+
+* [iOS异常捕获](http://www.iosxxx.com/blog/2015-08-29-iosyi-chang-bu-huo.html) 
 * [WWDC 2018：理解崩溃以及崩溃日志](https://juejin.im/post/5b1e833ce51d450686186557) 
 
 #### CrashLog
