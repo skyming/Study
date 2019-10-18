@@ -1,9 +1,16 @@
 
 PASSPORT 相关知识点记录
+#### 设备标识
+* [什么是IDFA](https://www.jianshu.com/p/204372f9209d)
+* [浅谈移动端设备标识码：DeviceID、IMEI、IDFA、UDID和UUID](https://www.jianshu.com/p/38f4d1a4763b)
+* [获取iOS设备WiFi名字和mac地址+iOS12系统获取失败解决](https://www.jianshu.com/p/1b29dc8794d6)
 
+
+#### 架构设计
 * [滴滴打车passport系统架构设计分析](http://www.hello-code.com/blog/architecture/201607/6099.html)
 
 
+#### 新技术
 * [Sign In with Apple](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple/overview/)
 * [iOS12 - Password AutoFill, Automatic Strong Password, and Security Code AutoFill](https://developerinsider.co/ios12-password-autofill-automatic-strong-password-and-security-code-autofill/)
 * [iOS 13 - How to Integrate Sign In with Apple in your Application?](https://developerinsider.co/ios-13-how-to-integrate-sign-in-with-apple-in-your-application/)
