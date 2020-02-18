@@ -18,6 +18,7 @@ PASSPORT 相关知识点记录
 * [iOS11 Password AutoFill 快速登录](https://www.jianshu.com/p/5ed5d2bf3512)
 * [iOS12 – 密码自动填充，自动强密码和安全代码自动填充](https://mp.weixin.qq.com/s/83-ajIMf07RJ2ZddWl54rQ)
 * [What the Heck is Sign In with Apple?](https://developer.okta.com/blog/2019/06/04/what-the-heck-is-sign-in-with-apple#how-sign-in-with-apple-works-hint-it-uses-oauth-and-oidc)
+* [iOS 苹果授权登录（Sign in with Apple）系列之uniapp篇](https://www.wangquanwei.com/549.html)
 
 #### AuthenticationServices
 ##### 官方文档
