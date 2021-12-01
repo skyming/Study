@@ -52,4 +52,23 @@ WiFi
 2017-12-21 13:18:55.915749+0800 MyCall[11546:4255943] ifaName = utun0
 2017-12-21 13:18:55.915792+0800 MyCall[11546:4255943] ifaName = utun0
 
+WIFI+4G
+Printing description of addresses:
+{
+    "awdl0/ipv6" = "0:0:fe80::8c7b:1dff";
+    "en0/ipv4" = "10.252.138.249";
+    "en0/ipv6" = "0:0:fe80::837:6771";
+    "ipsec0/ipv6" = "::2408:8509:3080:8ac2:c63:fc08";
+    "ipsec1/ipv6" = "::2408:8509:3080:8ac2:c63:fc08";
+    "llw0/ipv6" = "0:0:fe80::8c7b:1dff";
+    "pdp_ip0/ipv4" = "10.113.51.145";
+    "pdp_ip1/ipv6" = "::2408:8509:3080:8ac2:c4a7:4371";
+    "utun0/ipv6" = "0:0:fe80::3006:f69e";
+    "utun1/ipv6" = "0:0:fe80::7d76:9dd9";
+    "utun2/ipv6" = "0:0:fe80::ce81:b1c";
+    "utun3/ipv6" = "0:0:fe80::abc:c821";
+    "utun4/ipv6" = "0:0:fe80::aba4:16b";
+    "utun5/ipv6" = "0:0:fe80::469c:77b1";
+}
+
 * [ios下获取所有实体/虚拟网卡的信息，并以此判断设备所处的网络状态](https://my.oschina.net/u/211651/blog/169439)
